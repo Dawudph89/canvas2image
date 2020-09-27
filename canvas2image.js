@@ -3,6 +3,7 @@
  * and save the image file
  */
 //Este un nuevo asda
+// pues NamedNodeMap,
 
 var Canvas2Image = function () {
 

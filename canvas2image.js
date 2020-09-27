@@ -2,7 +2,7 @@
  * covert canvas to image
  * and save the image file
  */
-//asdas jsadjkasjdsa
+//Este un nuevo asda
 
 var Canvas2Image = function () {
 
